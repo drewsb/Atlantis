@@ -7,14 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		715E939A1EB21D1F006B6B4C /* FlightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 715E93991EB21D1F006B6B4C /* FlightViewController.swift */; };
+		715E939C1EB228C0006B6B4C /* WebKitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 715E939B1EB228C0006B6B4C /* WebKitViewController.swift */; };
+		7160ED271EAFF1A800812E58 /* CustomPointAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7160ED261EAFF1A800812E58 /* CustomPointAnnotation.swift */; };
+		7195C3421EB183E6003101B3 /* FlightTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C3411EB183E6003101B3 /* FlightTableViewCell.swift */; };
+		7195C3441EB1847A003101B3 /* Flight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C3431EB1847A003101B3 /* Flight.swift */; };
+		7195C3461EB1B5FA003101B3 /* FindFlightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C3451EB1B5FA003101B3 /* FindFlightViewController.swift */; };
+		7195C3481EB1C545003101B3 /* FlightTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C3471EB1C545003101B3 /* FlightTableViewController.swift */; };
+		7195C34C1EB1E84F003101B3 /* FlightData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C34B1EB1E84F003101B3 /* FlightData.swift */; };
+		7195C34E1EB1F164003101B3 /* FlightSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C34D1EB1F164003101B3 /* FlightSpecs.swift */; };
+		7195C3501EB1FEA6003101B3 /* Layover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195C34F1EB1FEA6003101B3 /* Layover.swift */; };
 		71F23C5F1EA7FF50007C95B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F23C5E1EA7FF50007C95B2 /* AppDelegate.swift */; };
 		71F23C611EA7FF50007C95B2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F23C601EA7FF50007C95B2 /* ViewController.swift */; };
 		71F23C641EA7FF50007C95B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71F23C621EA7FF50007C95B2 /* Main.storyboard */; };
 		71F23C661EA7FF50007C95B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71F23C651EA7FF50007C95B2 /* Assets.xcassets */; };
 		71F23C691EA7FF50007C95B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71F23C671EA7FF50007C95B2 /* LaunchScreen.storyboard */; };
+		71F23C721EA80C9D007C95B2 /* Network Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F23C711EA80C9D007C95B2 /* Network Manager.swift */; };
+		71F23C751EA90B07007C95B2 /* AirportData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F23C741EA90B07007C95B2 /* AirportData.swift */; };
+		71F23C771EA90B1F007C95B2 /* Airport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F23C761EA90B1F007C95B2 /* Airport.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		715E93991EB21D1F006B6B4C /* FlightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightViewController.swift; sourceTree = "<group>"; };
+		715E939B1EB228C0006B6B4C /* WebKitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebKitViewController.swift; sourceTree = "<group>"; };
+		7160ED261EAFF1A800812E58 /* CustomPointAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomPointAnnotation.swift; sourceTree = "<group>"; };
+		7195C3411EB183E6003101B3 /* FlightTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightTableViewCell.swift; sourceTree = "<group>"; };
+		7195C3431EB1847A003101B3 /* Flight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Flight.swift; sourceTree = "<group>"; };
+		7195C3451EB1B5FA003101B3 /* FindFlightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindFlightViewController.swift; sourceTree = "<group>"; };
+		7195C3471EB1C545003101B3 /* FlightTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightTableViewController.swift; sourceTree = "<group>"; };
+		7195C34B1EB1E84F003101B3 /* FlightData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightData.swift; sourceTree = "<group>"; };
+		7195C34D1EB1F164003101B3 /* FlightSpecs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightSpecs.swift; sourceTree = "<group>"; };
+		7195C34F1EB1FEA6003101B3 /* Layover.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Layover.swift; sourceTree = "<group>"; };
 		71F23C5B1EA7FF50007C95B2 /* Atlantis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Atlantis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71F23C5E1EA7FF50007C95B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71F23C601EA7FF50007C95B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +45,9 @@
 		71F23C651EA7FF50007C95B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71F23C681EA7FF50007C95B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71F23C6A1EA7FF50007C95B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71F23C711EA80C9D007C95B2 /* Network Manager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Network Manager.swift"; sourceTree = "<group>"; };
+		71F23C741EA90B07007C95B2 /* AirportData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirportData.swift; sourceTree = "<group>"; };
+		71F23C761EA90B1F007C95B2 /* Airport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Airport.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,51 @@
 		71F23C5D1EA7FF50007C95B2 /* Atlantis */ = {
 			isa = PBXGroup;
 			children = (
+				71F23C7A1EA9115B007C95B2 /* Classes */,
+				71F23C731EA90A91007C95B2 /* ViewControllers */,
+				71F23C701EA80C8C007C95B2 /* Model */,
 				71F23C5E1EA7FF50007C95B2 /* AppDelegate.swift */,
-				71F23C601EA7FF50007C95B2 /* ViewController.swift */,
 				71F23C621EA7FF50007C95B2 /* Main.storyboard */,
 				71F23C651EA7FF50007C95B2 /* Assets.xcassets */,
 				71F23C671EA7FF50007C95B2 /* LaunchScreen.storyboard */,
 				71F23C6A1EA7FF50007C95B2 /* Info.plist */,
 			);
 			path = Atlantis;
+			sourceTree = "<group>";
+		};
+		71F23C701EA80C8C007C95B2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				71F23C711EA80C9D007C95B2 /* Network Manager.swift */,
+				71F23C741EA90B07007C95B2 /* AirportData.swift */,
+				7195C34B1EB1E84F003101B3 /* FlightData.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		71F23C731EA90A91007C95B2 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				71F23C601EA7FF50007C95B2 /* ViewController.swift */,
+				7195C3451EB1B5FA003101B3 /* FindFlightViewController.swift */,
+				7195C3471EB1C545003101B3 /* FlightTableViewController.swift */,
+				715E93991EB21D1F006B6B4C /* FlightViewController.swift */,
+				715E939B1EB228C0006B6B4C /* WebKitViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		71F23C7A1EA9115B007C95B2 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				71F23C761EA90B1F007C95B2 /* Airport.swift */,
+				7160ED261EAFF1A800812E58 /* CustomPointAnnotation.swift */,
+				7195C3411EB183E6003101B3 /* FlightTableViewCell.swift */,
+				7195C3431EB1847A003101B3 /* Flight.swift */,
+				7195C34D1EB1F164003101B3 /* FlightSpecs.swift */,
+				7195C34F1EB1FEA6003101B3 /* Layover.swift */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +200,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7195C34E1EB1F164003101B3 /* FlightSpecs.swift in Sources */,
+				7195C3501EB1FEA6003101B3 /* Layover.swift in Sources */,
+				7195C3421EB183E6003101B3 /* FlightTableViewCell.swift in Sources */,
+				7195C3481EB1C545003101B3 /* FlightTableViewController.swift in Sources */,
+				7195C34C1EB1E84F003101B3 /* FlightData.swift in Sources */,
+				71F23C771EA90B1F007C95B2 /* Airport.swift in Sources */,
 				71F23C611EA7FF50007C95B2 /* ViewController.swift in Sources */,
+				7195C3461EB1B5FA003101B3 /* FindFlightViewController.swift in Sources */,
+				715E939C1EB228C0006B6B4C /* WebKitViewController.swift in Sources */,
+				715E939A1EB21D1F006B6B4C /* FlightViewController.swift in Sources */,
 				71F23C5F1EA7FF50007C95B2 /* AppDelegate.swift in Sources */,
+				71F23C721EA80C9D007C95B2 /* Network Manager.swift in Sources */,
+				7195C3441EB1847A003101B3 /* Flight.swift in Sources */,
+				7160ED271EAFF1A800812E58 /* CustomPointAnnotation.swift in Sources */,
+				71F23C751EA90B07007C95B2 /* AirportData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +339,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = U5UAME8YTW;
 				INFOPLIST_FILE = Atlantis/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.drewboyette.Atlantis;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +353,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = U5UAME8YTW;
 				INFOPLIST_FILE = Atlantis/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.drewboyette.Atlantis;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,6 +380,7 @@
 				71F23C6F1EA7FF50007C95B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

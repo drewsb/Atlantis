@@ -1,0 +1,579 @@
+{
+    "airports": [
+        {
+            "name": "Philadelphia International Airport",
+            "city": "Philadelphia",
+            "iata": "PHL",
+            "latitude": "39.874396",
+            "longitude": "-75.242423",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Pennsylvania",
+                "abbr": "PA",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Raleigh-Durham International Airport",
+            "city": "Morrisville",
+            "iata": "RDU",
+            "latitude": "35.880079",
+            "longitude": "-78.787996",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "North Carolina",
+                "abbr": "NC",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Durant Regional Airport–Eaker Field ",
+            "city": "Durant",
+            "iata": "DUA",
+            "latitude": "33.939029",
+            "longitude": "-96.399408",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Oklahoma",
+                "abbr": "OK",
+                "type": "State"
+            }
+        },
+        {
+            "name": "New York City - All Airports",
+            "city": "New York City",
+            "iata": "NYC",
+            "latitude": "40.712784",
+            "longitude": "-74.005941",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Newark Liberty International Airport",
+            "city": "Newark",
+            "iata": "EWR",
+            "latitude": "40.689531",
+            "longitude": "-74.174462",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New Jersey",
+                "abbr": "NJ",
+                "type": "State"
+            }
+        },
+        {
+            "name": "John F. Kennedy International Airport",
+            "city": "New York City",
+            "iata": "JFK",
+            "latitude": "40.641311",
+            "longitude": "-73.778139",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "LaGuardia Airport",
+            "city": "New York City",
+            "iata": "LGA",
+            "latitude": "40.776927",
+            "longitude": "-73.873966",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Stewart International Airport",
+            "city": "Newburgh",
+            "iata": "SWF",
+            "latitude": "41.498563",
+            "longitude": "-74.100439",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Downtown Manhattan Heliport ",
+            "city": "New York City",
+            "iata": "JRB",
+            "latitude": "40.701570",
+            "longitude": "-74.009131",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "University Park Airport",
+            "city": "State College",
+            "iata": "SCE",
+            "latitude": "40.855881",
+            "longitude": "-77.843841",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Pennsylvania",
+                "abbr": "PA",
+                "type": "State"
+            }
+        },
+        {
+            "name": "University of Illinois Willard Airport",
+            "city": "Champaign",
+            "iata": "CMI",
+            "latitude": "40.036447",
+            "longitude": "-88.263833",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Illinois",
+                "abbr": "IL",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Provo Municipal Airport",
+            "city": "Provo",
+            "iata": "PVU",
+            "latitude": "40.215881",
+            "longitude": "-111.722713",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Utah",
+                "abbr": "UT",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Kenai Municipal Airport",
+            "city": "Kenai",
+            "iata": "ENA",
+            "latitude": "60.571512",
+            "longitude": "-151.249068",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Alaska",
+                "abbr": "AK",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Rugby Municipal Airport",
+            "city": "Rugby",
+            "iata": "RUG",
+            "latitude": "48.390278",
+            "longitude": "-100.024170",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "North Dakota",
+                "abbr": "ND",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Auburn University Regional Airport",
+            "city": "Auburn",
+            "iata": "AUO",
+            "latitude": "32.613769",
+            "longitude": "-85.435266",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Alabama",
+                "abbr": "AL",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Purdue University Airport",
+            "city": "West Lafayette",
+            "iata": "LAF",
+            "latitude": "40.413737",
+            "longitude": "-86.933779",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Indiana",
+                "abbr": "IN",
+                "type": "State"
+            }
+        },
+        {
+            "name": "New York City - All Airports",
+            "city": "New York City",
+            "iata": "NYC",
+            "latitude": "40.712784",
+            "longitude": "-74.005941",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Newark Liberty International Airport",
+            "city": "Newark",
+            "iata": "EWR",
+            "latitude": "40.689531",
+            "longitude": "-74.174462",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New Jersey",
+                "abbr": "NJ",
+                "type": "State"
+            }
+        },
+        {
+            "name": "John F. Kennedy International Airport",
+            "city": "New York City",
+            "iata": "JFK",
+            "latitude": "40.641311",
+            "longitude": "-73.778139",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "LaGuardia Airport",
+            "city": "New York City",
+            "iata": "LGA",
+            "latitude": "40.776927",
+            "longitude": "-73.873966",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Stewart International Airport",
+            "city": "Newburgh",
+            "iata": "SWF",
+            "latitude": "41.498563",
+            "longitude": "-74.100439",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Downtown Manhattan Heliport ",
+            "city": "New York City",
+            "iata": "JRB",
+            "latitude": "40.701570",
+            "longitude": "-74.009131",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "New York",
+                "abbr": "NY",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Austin-Bergstrom International Airport",
+            "city": "Austin",
+            "iata": "AUS",
+            "latitude": "30.197429",
+            "longitude": "-97.666306",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Austin Straubel International Airport",
+            "city": "Green Bay",
+            "iata": "GRB",
+            "latitude": "44.486159",
+            "longitude": "-88.132082",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Wisconsin",
+                "abbr": "WI",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Austin Municipal Airport",
+            "city": "Austin",
+            "iata": "AUM",
+            "latitude": "43.672164",
+            "longitude": "-92.938840",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Minnesota",
+                "abbr": "MN",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Austin Airport ",
+            "city": "Austin",
+            "iata": "ASQ",
+            "latitude": "30.197429",
+            "longitude": "-97.666306",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Nevada",
+                "abbr": "NV",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Domingo Faustino Sarmiento Airport",
+            "city": "San Juan",
+            "iata": "UAQ",
+            "latitude": "-34.558030",
+            "longitude": "-58.417009",
+            "country": {
+                "name": "Argentina",
+                "iso": "AR"
+            },
+            "state": {
+                "name": "San Juan",
+                "type": "Province"
+            }
+        },
+        {
+            "name": "William P. Hobby Airport",
+            "city": "Houston",
+            "iata": "HOU",
+            "latitude": "29.654214",
+            "longitude": "-95.276659",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Houston - All Airports",
+            "city": "Houston",
+            "iata": "QHO",
+            "latitude": "29.760427",
+            "longitude": "-95.369803",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "George Bush Intercontinental Airport",
+            "city": "Houston",
+            "iata": "IAH",
+            "latitude": "29.990220",
+            "longitude": "-95.336783",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Lone Star Executive Airport",
+            "city": "Houston",
+            "iata": "CXO",
+            "latitude": "30.352361",
+            "longitude": "-95.414528",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "West Houston Airport",
+            "city": "Houston",
+            "iata": "IWS",
+            "latitude": "29.815661",
+            "longitude": "-95.673747",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Ellington Field Joint Reserve Base",
+            "city": "Houston",
+            "iata": "EFD",
+            "latitude": "29.608354",
+            "longitude": "-95.175799",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Texas",
+                "abbr": "TX",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Aeropuerto Internacional Benito Juárez",
+            "city": "Mexico City",
+            "iata": "MEX",
+            "latitude": "19.436076",
+            "longitude": "-99.071908",
+            "country": {
+                "name": "Mexico",
+                "iso": "MX"
+            },
+            "state": {
+                "name": "Mexico",
+                "abbr": "ME",
+                "type": "State"
+            }
+        },
+        {
+            "name": " Atizapan De Zaragoza Airport",
+            "city": "Mexico City",
+            "iata": "AZP",
+            "latitude": "19.571954",
+            "longitude": "-99.292663",
+            "country": {
+                "name": "Mexico",
+                "iso": "MX"
+            },
+            "state": {
+                "name": "Mexico",
+                "abbr": "ME",
+                "type": "State"
+            }
+        },
+        {
+            "name": "Nashville International Airport",
+            "city": "Nashville",
+            "iata": "BNA",
+            "latitude": "36.126317",
+            "longitude": "-86.677371",
+            "country": {
+                "name": "United States",
+                "iso": "US"
+            },
+            "state": {
+                "name": "Tennessee",
+                "abbr": "TN",
+                "type": "State"
+            }
+        }
+    ]
+}
